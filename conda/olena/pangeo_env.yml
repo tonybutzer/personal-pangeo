@@ -6,9 +6,9 @@ dependencies:
 
 # olenas
   - seaborn
-  - skimage
-  - pystac_client
-  - xrspatial
+  - scikit-image
+  - pystac-client
+  - xarray-spatial
 #holoviz
   - hvplot
   - geoviews
