@@ -3,6 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - python=3
+
+# olenas
+  - seaborn
+  - skimage
+  - pystac_client
+  - xrspatial
 #holoviz
   - hvplot
   - geoviews
