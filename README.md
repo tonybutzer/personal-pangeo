@@ -33,3 +33,7 @@ for bootstrapping a personal pangeo system in AWS
 ## Moving my mini-pangeo stuff
 - aws cp to some bucket
 - aws cp back here
+
+
+## Study the repo 
+- https://github.com/tonybutzer/personal-pangeo
