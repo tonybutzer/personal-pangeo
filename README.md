@@ -22,3 +22,14 @@ for bootstrapping a personal pangeo system in AWS
 
 - could use AWS console if you have access 
 - else - pinstance - need to set this up
+
+
+## building your pangeo conda
+
+- cd opt/personal-pangeo/conda/olena
+	- make build
+	- pangeo_env.yml # this is a list of your python packages.
+
+## Moving my mini-pangeo stuff
+- aws cp to some bucket
+- aws cp back here
