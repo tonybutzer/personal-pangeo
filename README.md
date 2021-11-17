@@ -14,7 +14,7 @@ for bootstrapping a personal pangeo system in AWS
 
 ## connecting to the pangeo
 
-- http://10.12.69.23:888
+- http://10.12.69.13:8888
 	- passwd is yaml
 
 
