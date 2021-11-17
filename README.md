@@ -23,6 +23,9 @@ for bootstrapping a personal pangeo system in AWS
 - could use AWS console if you have access 
 - else - pinstance - need to set this up
 
+### Stopping the host you are ssh logged into
+- sudo shutdown -h now
+
 
 ## building your pangeo conda
 
@@ -37,3 +40,7 @@ for bootstrapping a personal pangeo system in AWS
 
 ## Study the repo 
 - https://github.com/tonybutzer/personal-pangeo
+
+## Build your own github repo 
+- name it conda-env
+	- cp personal-pangeo/conda/olena -- and -- customize it
